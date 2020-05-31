@@ -1,0 +1,2 @@
+# deeplearning_from_scrach_ring_reading
+ゼロから作るディープラーニングの資料や疑問点
